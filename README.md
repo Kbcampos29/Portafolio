@@ -30,4 +30,4 @@ ___________
 *Espero trabajemos juntos pronto* 😎
 <!-- Para poner links [] -->
 Correo 📧:
-[cecilia.marin.juarez@example.com](mailto:cecilia.marin.juarez@example.com)
+[karlacampos533@gmail.com.com](mailto:karlacampos533@gmail.com)
