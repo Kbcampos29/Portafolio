@@ -1,0 +1,16 @@
+var app = document.getElementById('app');
+
+// Traer por su elemento por "app"
+var typewriter = new Typewriter(app, {
+    loop: true
+});
+
+typewriter.typeString('Ingeniera Mecatronica')
+    .pauseFor(2500)
+    .deleteAll()
+    .typeString('Con mas enfoque a la programación')
+    .pauseFor(2500)
+    .deleteChars(13) // Número de caracteres que se borrarán
+    .typeString('<strong>proyectos mecatronicos!</strong>')
+    .pauseFor(2500)
+    .start();
