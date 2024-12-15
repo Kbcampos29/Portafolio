@@ -27,6 +27,9 @@ ___________
 <!-- Poner imagenes proyecto cuando este listo -->
 ![Proyecto](https://imgur.com/a/bmSRs2r)
 
+![image](https://github.com/user-attachments/assets/f9754564-8f83-4896-be33-e2e601bf3a63)
+
+
 *Espero trabajemos juntos pronto* 😎
 <!-- Para poner links [] -->
 Correo 📧:
